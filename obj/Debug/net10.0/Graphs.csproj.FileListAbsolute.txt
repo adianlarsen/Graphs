@@ -1,0 +1,15 @@
+/Users/adianlarsen/Desktop/Graphs/bin/Debug/net10.0/Graphs
+/Users/adianlarsen/Desktop/Graphs/bin/Debug/net10.0/Graphs.deps.json
+/Users/adianlarsen/Desktop/Graphs/bin/Debug/net10.0/Graphs.runtimeconfig.json
+/Users/adianlarsen/Desktop/Graphs/bin/Debug/net10.0/Graphs.dll
+/Users/adianlarsen/Desktop/Graphs/bin/Debug/net10.0/Graphs.pdb
+/Users/adianlarsen/Desktop/Graphs/obj/Debug/net10.0/Graphs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adianlarsen/Desktop/Graphs/obj/Debug/net10.0/Graphs.AssemblyInfoInputs.cache
+/Users/adianlarsen/Desktop/Graphs/obj/Debug/net10.0/Graphs.AssemblyInfo.cs
+/Users/adianlarsen/Desktop/Graphs/obj/Debug/net10.0/Graphs.csproj.CoreCompileInputs.cache
+/Users/adianlarsen/Desktop/Graphs/obj/Debug/net10.0/Graphs.sourcelink.json
+/Users/adianlarsen/Desktop/Graphs/obj/Debug/net10.0/Graphs.dll
+/Users/adianlarsen/Desktop/Graphs/obj/Debug/net10.0/refint/Graphs.dll
+/Users/adianlarsen/Desktop/Graphs/obj/Debug/net10.0/Graphs.pdb
+/Users/adianlarsen/Desktop/Graphs/obj/Debug/net10.0/Graphs.genruntimeconfig.cache
+/Users/adianlarsen/Desktop/Graphs/obj/Debug/net10.0/ref/Graphs.dll
